@@ -2,5 +2,5 @@
 
 ................................................
 
-this repo has been created to provide a collaberative environment for the production of scripts for the following youtube channel https://www.youtube.com/channel/UCWeGibnI0h07pIPiX945DBg
+this repo has been created to provide a collaberative environment for the production of scripts for the following youtube channel https://www.youtube.com/c/MoneroGuides
 
